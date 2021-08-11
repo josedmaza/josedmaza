@@ -5,11 +5,15 @@
   <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" width="550" height="450"/> 
 </a>  
 
+<a href="https://www.linkedin.com/in/jose-daniel-maza-arnedo">
+  <img alt="JoseDmaza Profile" height="32" width="32" src="assets/linkedin.svg">
+</a>
+
 **I'm currently a Junior Full-Stack JavaScript Developer in progress**.
 
 ##### Now
 - 💥 I have decided to invest in myself, becoming active in communities like Platzi and The Odin Proyect.
-- 🧠 I'm learning about Node-Js React and MongoDB.
+- 🧠 I'm learning about Node-Js, React and MongoDB.
 
 ##### Facts
 - :colombia: I'm Colombian.
