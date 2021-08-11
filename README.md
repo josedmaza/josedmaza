@@ -4,6 +4,8 @@
 <a  href="https://github.com/josedmaza">
   <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" width="550" height="450"/> 
 </a>  
+
+**I'm currently a Junior Full-Stack JavaScript Developer in progress**.
 <!--
 **josedmaza/josedmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
