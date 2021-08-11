@@ -1,8 +1,9 @@
 ### Hi, I'm Jose Daniel Maza 👋
 
 
-<a  href="https://github.com/SP-XD">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="550"/> </a>  
+<a  href="https://github.com/josedmaza">
+  <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" width="550" height="320"/> 
+</a>  
 <!--
 **josedmaza/josedmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
