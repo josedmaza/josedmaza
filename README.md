@@ -12,8 +12,8 @@
 - 🧠 I'm learning about Node-Js React and MongoDB.
 
 #####
-- �:colombia: I'm Colombian.
-- I use daily: `.html`, `.css`, `.js`,`py`, `.java` 
+- :kosovo: I'm Colombian.
+- 💻 I use daily: `.html`, `.css`, `.js`,`py`, `.java` 
 - Learning all that I can.
 - I have a Rocky🐕‍🦺
 <!--
