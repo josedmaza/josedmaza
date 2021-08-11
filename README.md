@@ -23,12 +23,12 @@
 - 🐕‍🦺I have a Rocky
 
 ##### My strengths
-<code><img height="16" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
-<code><img height="16" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="16" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
-<code><img height="16" src="https://img.icons8.com/color/48/000000/git.png"/></code>
-<code><img height="16" src="https://img.icons8.com/color/48/000000/python--v2.png"/></code>
-<code><img height="16" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/javascript--v2.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/python--v2.png"/></code>
+<code><img height="24" src="https://img.icons8.com/color/48/000000/nodejs.png"/></code>
 <!--
 **josedmaza/josedmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
