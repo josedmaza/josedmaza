@@ -2,7 +2,7 @@
 
 
 <a  href="https://github.com/josedmaza">
-  <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" width="550" height="450"/> 
+  <img align="right" alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" width="450" height="350"/> 
 </a>  
 
 <a href="https://www.linkedin.com/in/jose-daniel-maza-arnedo">
@@ -13,6 +13,7 @@
 
 ##### Now
 - 💥 I have decided to invest in myself, becoming active in communities like Platzi and The Odin Proyect.
+
 - 🧠 I'm learning about Node-Js, React and MongoDB.
 
 ##### Facts
@@ -20,6 +21,9 @@
 - 💻 I use daily: `.html`, `.css`, `.js`,`py`, `.java` 
 - ⬆️Learning all that I can.
 - 🐕‍🦺I have a Rocky
+
+##### My strengths
+<code><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <!--
 **josedmaza/josedmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
