@@ -6,7 +6,7 @@
 </a>  
 
 <a href="https://www.linkedin.com/in/jose-daniel-maza-arnedo">
-  <img alt="JoseDmaza Profile" height="32" width="32" src="assets/linkedin.svg">
+  <img alt="JoseDmaza Profile" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 
 **I'm currently a Junior Full-Stack JavaScript Developer in progress**.
