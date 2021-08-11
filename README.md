@@ -6,6 +6,16 @@
 </a>  
 
 **I'm currently a Junior Full-Stack JavaScript Developer in progress**.
+
+#####
+- 💥 I have decided to invest in myself, becoming active in communities like Platzi and The Odin Proyect.
+- 🧠 I'm learning about Node-Js React and MongoDB.
+
+#####
+- 🇨🇴 I'm Colombian.
+- I use daily: `.html`, `.css`, `.js`,`py`, `.java` 
+- Learning all that I can.
+- I have a Rocky🐕‍🦺
 <!--
 **josedmaza/josedmaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
