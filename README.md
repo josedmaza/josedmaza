@@ -2,7 +2,7 @@
 
 
 <a  href="https://github.com/josedmaza">
-  <img align="right" alt="GIF" src="<img style="width: 559.9px;" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width="450" height="350"/> 
+  <img align="right" alt="GIF" src="https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif" width="550" height="350"/> 
 </a>  
 
 <a href="https://www.linkedin.com/in/jose-daniel-maza-arnedo">
