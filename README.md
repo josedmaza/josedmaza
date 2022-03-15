@@ -9,7 +9,7 @@
   <img align="left" alt="JoseDmaza Profile" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
 </a>
 
-**I'm currently a Junior Full-Stack Java Developer in progress**.
+**I'm currently a Junior Full-Stack  Developer in progress**.
 
 ##### Now
 - 💥 I have decided to invest in myself, becoming active in communities like Platzi and The Odin Proyect.
