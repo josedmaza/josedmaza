@@ -5,9 +5,8 @@
   
 </a>  
 
-<a href="https://www.linkedin.com/in/jose-daniel-maza-arnedo">
-  <img align="left" alt="JoseDmaza Profile" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg">
-</a>
+
+
 
 **I'm currently a Junior Developer in progress**.
 
